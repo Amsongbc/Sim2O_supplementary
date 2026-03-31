@@ -26,7 +26,7 @@ Table 2. Average episode returns of OMIGA-Finetune after 1 million online steps 
 | Ant-4x2-medium-replay | 1287.25 ± 22.59 | 1187.17 ± 60.34 |
 | Ant-8x1-medium-replay | 1346.42 ± 18.04 | 1340.37 ± 21.29 |
 
-Table 3. Average episode returns under structured beam search after 0.5 million online steps (mean ± std over 3 seeds).
+Table 3. Average episode returns on Ant-8x1-medium-replay after 0.5 million online steps (mean ± std over 3 seeds).
 
 | Method | Episode return |
 |---|---:|
