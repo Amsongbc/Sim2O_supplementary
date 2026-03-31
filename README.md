@@ -19,8 +19,8 @@ Table 1. Wall-clock statistics averaged over online training (mean ± std over s
 
 Table 2. Average episode returns of OMIGA-Finetune after 1 million online steps (mean ± std over 5 seeds).
 
-| Environment | OMIGA-Offline | OMIGA-Finetune | Sim2O
-|---|---:|---:|
+| Environment | OMIGA-Offline | OMIGA-Finetune | Sim2O |
+|---|---:|---:|---:|
 | HalfCheetah-6x1-medium | 1992.63 ± 888.20 | 2499.59 ± 47.34 | 3543.84 ± 227.67 |
 | HalfCheetah-6x1-medium-replay | 2581.69 ± 91.54 | 710.46 ± 629.25 | 3145.98 ± 109.50 |
 | Ant-4x2-medium-replay | 1287.25 ± 22.59 | 1187.17 ± 60.34 | 2024.66 ± 93.21 |
