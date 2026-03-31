@@ -1,5 +1,8 @@
 # Sim2O_supplementary
 
+<h2>Wall-clock statistics</h2>
+<p><strong>Wall-clock statistics averaged over online training (mean ± std over seeds).</strong></p>
+
 <table>
   <thead>
     <tr>
