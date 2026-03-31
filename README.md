@@ -24,6 +24,7 @@ Table 2. Average episode returns of OMIGA-Finetune after 1 million online steps 
 | HalfCheetah-6x1-medium | 1992.63 ± 888.20 | 2499.59 ± 47.34 |
 | HalfCheetah-6x1-medium-replay | 2581.69 ± 91.54 | 710.46 ± 629.25 |
 | Ant-4x2-medium-replay | 1287.25 ± 22.59 | 1187.17 ± 60.34 |
+| Ant-8x1-medium-replay | 1346.42 ± 18.04 | 1340.37 ± 21.29 |
 
 Table 3. Average episode returns under structured beam search after 0.5 million online steps (mean ± std over 3 seeds).
 
