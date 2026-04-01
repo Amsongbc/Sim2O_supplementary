@@ -26,12 +26,12 @@ Table 2. Average episode returns of OMIGA-Finetune after 1 million online steps 
 | Ant-4x2-medium-replay | 1287.25 ± 22.59 | 1187.17 ± 60.34 | 2024.66 ± 93.21 |
 | Ant-8x1-medium-replay | 1346.42 ± 18.04 | 1340.37 ± 21.29 | 1546.51 ± 12.34 |
 
-Table 3. Average episode returns on Ant-8x1-medium-replay after 0.5 million online steps (mean ± std over 3 seeds).
+Table 3. Average episode returns on HalfCheetah-6x1-medium after 0.3 million online steps (mean ± std over 3 seeds).
 
 | Method | Episode return |
 |---|---:|
-| Exhaustive selection | 118.22 ± 5.14 |
-| Sim2O | 123.45 ± 6.78 |
+| Exhaustive selection | 3521.49 ± 87.16 |
+| Sim2O | 3843.94 ± 11.34 |
 
 Table 4. Average episode returns under different agent orderings after 0.5 million online steps (mean ± std over 3 seeds).
 
