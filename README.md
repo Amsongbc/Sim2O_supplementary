@@ -45,9 +45,9 @@ Table 5. Average episode returns under different offline pretraining steps after
 
 | Environment | Offline pretraining steps | Episode return |
 |---|---:|---:|
-| Ant-4x2-medium-replay | 250000 | 2392.01 ± 682.28 |
-|  | 500000 | 1902.65 ± 17.56 |
-|  | 1000000 | 1629.69 ± 2.92 |
+| Ant-4x2-medium-replay | 1 | 1060.36 ± 107.93 |
+|  | 100000 | 1493.65 ± 377.56 |
+|  | 250000 | 1836.49 ± 11.31 |
 | HalfCheetah-6x1-medium-replay | 250000 | 3225.29 ± 79.46 |
 |  | 500000 | 2360.26 ± 965.24 |
 |  | 1000000 | 1686.85 ± 1008.67 |
