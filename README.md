@@ -48,9 +48,8 @@ Table 5. Average episode returns under different offline pretraining steps after
 | Ant-4x2-medium-replay | 1 | 1060.36 ± 107.93 |
 |  | 1000 | 1913.39 ± 64.14 |
 |  | 10000 | 2037.56 ± 16.23 |
-| HalfCheetah-6x1-medium-replay | 250000 | 3225.29 ± 79.46 |
-|  | 500000 | 2360.26 ± 965.24 |
-|  | 1000000 | 1686.85 ± 1008.67 |
+| HalfCheetah-6x1-medium-replay | 1000 | 1192.26 ± 1154.88 |
+|  | 100000 | 3134.62 ± 42.46 |
 
 Table 6. Average episode returns under different temperature τ values after 0.5 million online steps (mean ± std over 3 seeds).
 
