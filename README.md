@@ -41,7 +41,7 @@ Table 4. Average episode returns under different agent orderings after 0.5 milli
 | Reverse | 3623.12 ± 30.28 |
 | Random | 3562.66 ± 25.94 |
 
-Table 5. Average episode returns under different offline pretraining steps after 0.5 million online steps (mean ± std over 3 seeds).
+Table 5. Average episode returns under different offline pretraining steps after 0.3 million online steps (mean ± std over 3 seeds).
 
 | Environment | Offline pretraining steps | Episode return |
 |---|---:|---:|
